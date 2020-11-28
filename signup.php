@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <link href="table-responsive.css" media="screen" type="text/css" rel="stylesheet" />
+  <link href="css/table-responsive.css" media="screen" type="text/css" rel="stylesheet" />
 </head>
 
 <body data-new-gr-c-s-check-loaded="8.867.0">

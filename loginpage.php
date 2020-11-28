@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <link href="table-responsive.css" media="screen" type="text/css" rel="stylesheet" />
+  <link href="css/table-responsive.css" media="screen" type="text/css" rel="stylesheet" />
 </head>
 
-<body data-new-gr-c-s-check-loaded="8.867.0">
+<body data-new-gr-c-s-check-loaded="8.867.0" class="bodyzoom">
   <div class="login">
     <h1>Login to Web App</h1>
     <?php include('errors.php'); ?>
